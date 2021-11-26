@@ -3,3 +3,6 @@ def print_name(name="World"):
 
 
 print(print_name())
+
+def something:
+    pass
